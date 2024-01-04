@@ -1,0 +1,140 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Google Internship Program",
+      "salary": "$50k-$140k/month",
+      "logo": "https://seeklogo.com/images/G/google-logo-28FA7991AF-seeklogo.com.png",
+      "companyName": "Google",
+      "position": "Intern Developer",
+      "description": "This is an internship opportunity from Google",
+      "requirements": [
+        "Basic knowledge of software development",
+        "Strong communication skills",
+        "Enrolled in a relevant academic program"
+      ],
+      "qualifications": [
+        "Prior internship experience",
+        "Familiarity with Google technologies",
+        "Programming skills in Python, Java, or C++"
+      ],
+      "istrue": false
+    },
+    {
+      "id": 2,
+      "title": "Amazon Junior Development Program",
+      "salary": "$250k-$350k/month",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/de/Amazon_icon.png",
+      "companyName": "Amazon",
+      "position": "Junior Developer",
+      "description": "This is a junior developer recruitment from Amazon",
+      "requirements": [
+        "Basic understanding of software development principles",
+        "Willingness to learn and adapt to new technologies",
+        "Team collaboration skills"
+      ],
+      "qualifications": [
+        "Bachelor's degree in Computer Science or related field",
+        "Familiarity with Amazon Web Services (AWS)",
+        "Programming skills in Java, Python, or JavaScript"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Microsoft Senior Development Program",
+      "salary": "$400k-$540k/month",
+      "logo": "https://www.freepnglogos.com/uploads/microsoft-window-logo-emblem-0.png",
+      "companyName": "Microsoft",
+      "position": "Senior Developer",
+      "description": "This is a junior developer recruitment from Microsoft",
+      "requirements": [
+        "Several years of experience in software development",
+        "Strong problem-solving skills",
+        "Ability to work in a team environment"
+      ],
+      "qualifications": [
+        "Bachelor's or Master's degree in Computer Science or related field",
+        "Expertise in Microsoft technologies",
+        "Leadership experience"
+      ],
+      "istrue": true
+    },
+    {
+      "id": 4,
+      "title": "Apple Senior Development Program",
+      "salary": "$300k-$400k/month",
+      "logo": "https://cdn.freebiesupply.com/images/large/2x/apple-logo-transparent.png",
+      "companyName": "Apple",
+      "position": "Senior Developer",
+      "description": "This is a Senior developer recruitment from Apple",
+      "requirements": [
+        "Extensive experience in software development",
+        "Proficiency in multiple programming languages",
+        "Ability to handle complex projects"
+      ],
+      "qualifications": [
+        "Bachelor's or Master's degree in Computer Science or related field",
+        "Expertise in Apple technologies",
+        "Innovative thinking"
+      ],
+      "istrue": true
+    },
+    {
+      "id": 5,
+      "title": "Facebook Software Engineer Internship",
+      "salary": "$55k-$120k/month",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg",
+      "companyName": "Facebook",
+      "position": "Software Engineer Intern",
+      "description": "Internship opportunity for aspiring software engineers at Facebook",
+      "requirements": [
+        "Understanding of data structures and algorithms",
+        "Familiarity with front-end or back-end technologies",
+        "Passion for technology and innovation"
+      ],
+      "qualifications": [
+        "Enrollment in a Computer Science or related program",
+        "Experience with relevant programming languages like Python, JavaScript, or C++",
+        "Previous internship or project experience"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Tesla Software Development Engineer",
+      "salary": "$120k-$250k/month",
+      "logo": "https://www.freepnglogos.com/uploads/tesla-logo-png-20.png",
+      "companyName": "Tesla",
+      "position": "Software Development Engineer",
+      "description": "Contribute to Tesla's mission of accelerating the world's transition to sustainable energy",
+      "requirements": [
+        "Experience in full-stack development",
+        "Passion for sustainable energy solutions",
+        "Ability to work in a fast-paced environment"
+      ],
+      "qualifications": [
+        "Bachelor's or Master's degree in Computer Science or related field",
+        "Knowledge of software development methodologies",
+        "Interest in automotive technology"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Twitter Data Scientist",
+      "salary": "$130k-$220k/month",
+      "logo": "https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png",
+      "companyName": "Twitter",
+      "position": "Data Scientist",
+      "description": "Harness the power of data to drive insights and innovation at Twitter",
+      "requirements": [
+        "Strong analytical skills",
+        "Experience with data analysis tools",
+        "Ability to interpret complex data sets"
+      ],
+      "qualifications": [
+        "Bachelor's or Master's degree in Data Science, Statistics, or related field",
+        "Proficiency in programming languages like Python or R",
+        "Experience with machine learning algorithms"
+      ]
+    }
+  ]
+}
